@@ -1,0 +1,24 @@
+{
+  "name": "Shape-Constructor",
+  "version": "1.0.0",
+  "description": "Shape Constructor with node.js",
+  "main": "Pentagon.js",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reza8793/Shape-Constructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reza8793/Shape-Constructor/issues"
+  },
+  "homepage": "https://github.com/reza8793/Shape-Constructor#readme"
+}
