@@ -4,7 +4,7 @@
   "description": "Shape Constructor with node.js",
   "main": "Pentagon.js",
   "dependencies": {
-    "require": "^2.4.20"
+
   },
   "devDependencies": {},
   "scripts": {

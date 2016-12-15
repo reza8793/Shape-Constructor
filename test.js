@@ -11,11 +11,12 @@ var square = new Square(4);
 var pentagon = new Pentagon(1, 2, 3, 4, 5);
 var shape = new Shape();
 
+
 // Ensuring everything delegates to Shape...
 console.log(triangle.get_type());
 console.log(square.get_type());
 console.log(pentagon.get_type());
-console.log(shape);
+console.log(shape.get_type());
 
 console.log('-'.repeat(24));
 
